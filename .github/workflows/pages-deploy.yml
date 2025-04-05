@@ -52,13 +52,9 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-      - name: Setup Ads.txt
-        run: |
-          echo google.com, pub-2889277787752693, DIRECT, f08c47fec0942fa0 > ./_site/ads.txt
-
       - name: Create CNAME file
         run: |
-          echo lebenindeutschland.org > ./_site/CNAME
+          echo blogs.lebenindeutschland.org > ./_site/CNAME
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
