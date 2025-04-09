@@ -47,4 +47,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Sachsen.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-04-08
+## Last Updated On 2025-04-09
