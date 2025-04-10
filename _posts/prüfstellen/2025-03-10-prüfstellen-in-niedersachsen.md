@@ -56,7 +56,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Niedersachsen.svg
 |Cuxhaven|27607|Langen|VHS im Landkreis Cuxhaven|Debstedter Str. 5a|04743-922-123|i.weber@vhs-lk-cux.de|
 |Hannover|30853|Langenhagen|VHS Langenhagen|Stadtparkallee 35|0511/7307-9708|blauert@vhs-langenhagen.de|
 |Hannover|31275|Lehrte|VHS Ostkreis Hannover|Rathausplatz 2|05132-500012|vhs-ostkreis-hannover.de|
-|Leer|26789|Leer|VHS Leer|Haneburgallee 8|0491-9299220|info@vhs-leer.de|
+|Leer|26789|Leer|VHS Leer|Haneburgallee 8|0491-9299221|eysteinsdottir@vhs-leer.de|
 |Osterholz|28865|Lilienthal|VHS Lilienthal-Grasberg-Ritterhude-Worpswede|Klosterstr. 25|04298-929237|vhs@lilienthal.de|
 |Emsland|49808|Lingen|VHS Lingen|Am Pulverturm|0591 91202300|info@vhs-lingen.de|
 |Emsland|49716|Meppen|VHS Meppen gGmbH|Herzog-Arenberg-Str. 7|05931 93 73-22|marie-anne.horstmann@vhs-meppen.de|
@@ -80,4 +80,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Niedersachsen.svg
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-04-09
+## Last Updated On 2025-04-10
