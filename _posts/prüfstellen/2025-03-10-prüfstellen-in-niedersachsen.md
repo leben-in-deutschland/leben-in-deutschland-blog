@@ -45,7 +45,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Niedersachsen.svg
 |Kreisfreie Stadt|27749|Delmenhorst|VHS Delmenhorst gGmbH|Am Turbinenhaus 11|04221 - 98 180-0|deutsch@vhs-delmenhorst.de|
 |Cuxhaven|27474|Cuxhaven|VHS der Stadt Cuxhaven|Abendrothstr. 16|04721-73 5225|info@vhs-cuxhaven.de|
 |Kreisfreie Stadt|49076|Osnabrück|VHS der Stadt Osnabrück|Bergstr. 8|0541/7506029|mueller.be@vhs-osnabrueck.de|
-|Diepholz|28857|Syke|VHS des Landkreises Diepholz|Nienburger Str. 5|05541- 9761917|vhs@vhs-diepholz.de|
+|Diepholz|28857|Syke|VHS des Landkreises Diepholz|Am Petermoor 1B|04242-9764012|deutsch-lernen@vhs-diepholz.de|
 |Kreisfreie Stadt|26721|Emden|VHS Emden|An der Berufsschule 3|04921-915546|r.jenkins@vhs-emden.de|
 |Kreisfreie Stadt|37520|Göttingen|VHS Göttingen Osterode gGmbH|Neustädter Tor 1-3|05522-960 4454|faridani@vhs-goettingen.de|
 |Grafschaft Bentheim|48529|Nordhorn|VHS Grafschaft Bentheim|Bernhard-Niehues-Str. 49|Tel.: 05921/83 65 0|info@vhs-grafschaft-bentheim.de|
@@ -80,4 +80,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Niedersachsen.svg
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-04-28
+## Last Updated On 2025-04-29

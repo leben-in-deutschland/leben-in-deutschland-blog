@@ -62,7 +62,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bayern.svg"
 |Donau-Ries|86609|Donauwörth|VHS Donauwörth|Spindeltal 5|0906-8070|info@vhs-don.de|
 |Kreisfreie Stadt|91054|Erlangen|VHS Erlangen|Friedrichstr. 19/21|09131-862667|alexandra.rauhtaeschlein@stadt.erlangen.de|
 |Regensburg|93073|Neutraubling|VHS f. d. Landkreis Regensburg e. V.|Pommernstr. 4|09401-5255-12|info@vhs-regensburg-land.de|
-|Freising|85354|Freising|VHS Freising e.V.|Kammergasse 12|08161-490744|isolde.wagner@vhs-freising.org|
+|Freising|85354|Freising|VHS Freising e.V.|Kammergasse 12|08161-490744|deutsch@vhs-freising.org|
 |Kreisfreie Stadt|90762|Fürth|VHS Fürth gGmbH|Hirschenstr. 27/29|0911-974-1702|info@vhs-fuerth.de|
 |Garmisch-Partenkirchen|82467|Garmisch-Partenkirchen|VHS Garmisch-Partenkirchen e.V.|Burgstr. 21|08821/9590-40|info@vhs-gap.de|
 |Fürstenfeldbruck|82110|Germering|VHS Germering e.V.|Therese-Giehse-Platz 6|089-8414146|integration@vhs-germering.de|
@@ -135,4 +135,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bayern.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-04-28
+## Last Updated On 2025-04-29
