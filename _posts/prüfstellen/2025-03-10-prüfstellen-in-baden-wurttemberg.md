@@ -30,7 +30,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Baden-Württember
 |Ostalbkreis|73430|Aalen|VHS Aalen|Im Torhaus, Gmünder Str. 9|07361-95830|schumm@vhs-aalen.de|
 |Rems-Murr-Kreis|71522|Backnang|VHS Backnang|Etzwiesenberg 11|07191/9667-16|info@vhs-backnang.de|
 |Waldshut|79713|Bad Säckingen|VHS Bad Säckingen|Friedrichstr. 33|07761-2101|verwaltung@vhs-bad-saeckingen.de|
-|Stadtkreis|76532|Baden-Baden|VHS Baden-Baden|Jägerweg 10|07221/9965-360|info@vhs-baden-baden.de|
+|Stadtkreis|76532|Baden-Baden|VHS Baden-Baden|Jägerweg 12|07221/9965-360|info@vhs-baden-baden.de|
 |Zollernalbkreis|72336|Balingen|VHS Balingen|Wilhelmstr. 36|07433-9080-0|ottmar.erath@vhs-balingen.de|
 |Biberach/Riß|88400|Biberach|VHS Biberach a. d. Riß|Obere Schranne, Schulstr. 8|07351-51-246|cstern@biberach-riss.de|
 |Böblingen|71032|Böblingen|VHS Böblingen-Sindelfingen|Im Höfle, Pestalozzistr. 4|07031-640046|mailto:michael.hoffmann@vhs-aktuell.de|
@@ -76,4 +76,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Baden-Württember
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-04-30
+## Last Updated On 2025-05-01
