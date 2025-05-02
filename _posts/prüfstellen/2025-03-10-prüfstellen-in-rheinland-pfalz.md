@@ -72,4 +72,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Rheinland-Pfalz.s
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-05-01
+## Last Updated On 2025-05-02
