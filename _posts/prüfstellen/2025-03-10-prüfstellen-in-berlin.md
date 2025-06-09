@@ -22,8 +22,8 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Berlin.svg"
 | |13405|Berlin|VHS Berlin-Pankow|Prenzlauer Allee 227/228|030-902953932|vhs.deutsch@ba-pankow.berlin.de|
 | |13507|Berlin|VHS Berlin-Reinickendorf|Am Borsigturm 6|030-902944800|vhs@reinickendorf.berlin.de|
 | |13597|Berlin|VHS Berlin-Spandau|Carl-Schurz-Str. 17|030-902795000|info@vhs-spandau.de|
-| |10781|Berlin|VHS Berlin-Tempelhof-Schöneberg|Barbarossaplatz 5|030/902773000|einbuergerungstest@ba-ts.berlin.de|
+| |10781|Berlin|VHS Berlin-Tempelhof-Schöneberg|Barbarossaplatz 5|030-435570585|einbuergerungstest@ba-ts.berlin.de|
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-05-06
+## Last Updated On 2025-06-09
