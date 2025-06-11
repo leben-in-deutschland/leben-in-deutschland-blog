@@ -134,4 +134,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bayern.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-06-10
+## Last Updated On 2025-06-11
