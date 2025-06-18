@@ -16,4 +16,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bremen.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-06-17
+## Last Updated On 2025-06-18
