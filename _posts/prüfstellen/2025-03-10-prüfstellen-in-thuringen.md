@@ -27,4 +27,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Thüringen.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-06-28
+## Last Updated On 2025-06-29
