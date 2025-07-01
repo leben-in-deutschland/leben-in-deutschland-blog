@@ -67,7 +67,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Baden-Württember
 |Schwäbisch Hall|74523|Schwäbisch Hall|VHS Schwäbisch Hall|Salinenstr. 6-10 Haus der Bildung|0791-97066-17|m.miara@vhs-sha.de|
 |Rhein-Neckar-Kreis|74889|Sinsheim|VHS Sinsheim|Werderstr. 1|07261-6577-0|info@VHS-Sinsheim.de|
 |Stadtkreis|70174|Stuttgart|VHS Stuttgart|Fritz-Elsas-Str. 46-48|0711/1873-748|agnieszka.schulze@vhs-stuttgart.de|
-|Tübingen|72072|Tübingen|VHS Tübingen|Katharinenstr. 18|07071-560326|integration@vhs-tuebingen.de|
+|Tübingen|72072|Tübingen|VHS Tübingen|Katharinenstr. 18|07071-560329|integration@vhs-tuebingen.de|
 |Rems-Murr-Kreis|71332|Waiblingen|VHS Unteres Remstal|Bürgermühlenweg 4|07151-95880-0|info@vhs-unteres-remstal.de|
 |Schwarzwald-Baar-Kreis|78054|Villingen-Schwenningen|VHS Villingen-Schwenningen|Metzgergasse 8|07720-822276|vhs@villingen-schwenningen.de|
 |Wangen|88239|Wangen|VHS Wangen|Zunfthausgasse 4|07522 74242|vhs@wangen.de|
@@ -76,4 +76,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Baden-Württember
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-06-30
+## Last Updated On 2025-07-01
