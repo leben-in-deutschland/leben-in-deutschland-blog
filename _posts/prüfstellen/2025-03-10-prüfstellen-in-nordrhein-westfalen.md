@@ -109,7 +109,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Nordrhein-Westfal
 |Kreisfreie Stadt|58095|Hagen|Prisma Bildungsplattform e.V. Hagen|Sparkassen-Karree 8|02331-3486477|f.karafil@prisma-bp.de|
 |Kreisfreie Stadt|58089|Hagen|VHS Hagen|Schwanenstr. 6-10|02331/207-3745|vhs@stadt-hagen.de|
 |Gütersloh|33758|Schloß Holte-Stukenbrock|VHS Harsewinkel-Schloß Holte-Stukenbrock-Verl|Kirchstr. 2|05207-9174 - 12|josef.lieneke@gt-net.de|
-|Kreisfreie Stadt|44649|Herne|VHS Herne|Wilhelmstr. 37|02323/16-2841|vhs@herne.de|
+|Kreisfreie Stadt|44649|Herne|VHS Herne|Wilhelmstr. 37|02323/163179|vhs@herne.de|
 |Steinfurt|49477|Ibbenbüren|Bildungswerk Ibbenbüren|Am Heidenturm 15|05451-96730|info@bildungswerk-ibbenbueren.de|
 |Steinfurt|49477|Ibbenbüren|VHS Ibbenbüren|Oststr. 28|05451-931768|ursula.neissner@ibbenbueren.de|
 |Herford|32052|Herford|VHS im Kreis Herford|Münsterkirchplatz 1|05221/5905-28|remin@vhsimkreisherford.de|
@@ -201,4 +201,4 @@ beate.zwingmann@bergische-vhs.de|
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-07-14
+## Last Updated On 2025-07-15
