@@ -23,4 +23,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Hamburg.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-07-15
+## Last Updated On 2025-07-16
