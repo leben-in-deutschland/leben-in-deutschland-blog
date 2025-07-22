@@ -29,9 +29,9 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Mecklenburg-Vorpo
 | |17309|Pasewalk|Volkshochschulen Vorpommern-Greifswald Standort Pasewalk|Gemeindewiesenweg 8|03834/87604810|vhs-pasewalk@kreis-vg.de|
 | |18528|Bergen auf Rügen|Kreisvolkshochschule Vorpommern-Rügen Regionalstelle Rügen|Schulstr. 2|03838-200580|liliana.heim@lk-vr.de|
 | |18507|Grimmen|Kreisvolkshochschule Vorpommern-Rügen Regionalstelle Grimmen|Tribseeser Chaussee 4|038326/80020|irene.melzer@lk-vr.de|
-| |18437|Stralsund|Kreisvolkshochschule Vorpommern-Rügen Regionalstelle Stralsund|Tribseer Damm 76|03831/482310|volkshochschule@lk-vr.de|
+| |18437|Stralsund|Kreisvolkshochschule Vorpommern-Rügen Regionalstelle Stralsund|Tribseer Damm 76|03831/482311|sabine.koppe@lk-vr.de|
 | |18055 |Rostock|inlingua Rostock|Herweghstraße 1|0381 24 29 225|info@inlingua-rostock.de|
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-07-20
+## Last Updated On 2025-07-22
