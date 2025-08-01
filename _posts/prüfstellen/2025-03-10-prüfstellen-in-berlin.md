@@ -26,4 +26,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Berlin.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-07-31
+## Last Updated On 2025-08-01
