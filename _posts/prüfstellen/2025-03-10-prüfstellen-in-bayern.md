@@ -13,7 +13,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bayern.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 |Kreisfreie Stadt|90443|Nürnberg|Akademia Zentrum für Kommunikation und Bildung GmbH - Nürnberg|Bahnhofsplatz 6|0911-240562-0|service@linguademia.de|
 |Kreisfreie Stadt|80809|München|Anderwerk Deutschkurse|Hamburger Straße 32|089-45104024|deutschkurse@anderwerk.de|
-|Kreisfreie Stadt|81379|München|Bayerisches Rotes Kreuz|Boschetsriederstraße 67|089-3090406-33|integrationskurse@brk-muenchen.de|
+|Kreisfreie Stadt|81379|München|Bayerisches Rotes Kreuz|Goethestr. 53|089-2373-7421|ebt@brk-muenchen.de|
 |Donau-Ries|86609|Donauwörth|Berufliche Fortbildungszentren der Bayerischen Wirtschaft gGmbH, bfz-Donauwörth-Ulm-Aalen|Dr. Friedrich-Drechsler-Str. 14|0906-70677-0|info-dua@bfz.de|
 |Kreisfreie Stadt|90403|Nürnberg|Bildungszentrum Stadt Nürnberg|Gewerbemuseumsplatz 1|0911 231-3147|bz-info@stadt.nuernberg.de|
 |Kreisfreie Stadt|80335|München|Deutsche Angestellten-Akademie GmbH |Marsstraße 42|089-544302-0|info.muenchen@daa.de|
@@ -134,4 +134,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bayern.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-08-11
+## Last Updated On 2025-08-12
