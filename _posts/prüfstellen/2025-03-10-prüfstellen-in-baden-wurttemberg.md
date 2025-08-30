@@ -76,4 +76,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Baden-Württember
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-08-29
+## Last Updated On 2025-08-30
