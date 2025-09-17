@@ -57,7 +57,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Baden-Württember
 |Emmendingen|79312|Emmendingen|VHS Nördlicher Breisgau|Am Gaswerk 3|07641-9225-27|integration@vhs-em.de|
 |Calw|72202|Nagold|VHS Oberes Nagoldtal|Vorstadtplatz 15|07452-93150|sylvia.ehmann-oulad@vhs-nagold.de|
 |Esslingen|73760|Ostfildern|VHS Ostfildern|Esslinger Straße 26|0711-3404802|A.Koerfer-Naujoks@Ostfildern.de|
-|Stadtkreis|75172|Pforzheim|VHS Pforzheim-Enzkreis|Zerrenerstr. 29|07231-380062|schuster@vhs-pforzheim.de|
+|Stadtkreis|75172|Pforzheim|VHS Pforzheim-Enzkreis|Zerrennerstr. 29|07231-380000|info@vhs-pforzheim.de|
 |Sigmaringen|88630|Pfullendorf|VHS Pfullendorf|Kirchplatz 1|0 75 52 / 25-1132|hermine.reiter@stadt-pfullendorf.de|
 |Ravensburg|88212|Ravensburg|VHS Ravensburg|Wilhelmschule, Wilhelmstr. 5|0751-36199-17|vhs-rv@web.de|
 |Reutlingen|72764|Reutlingen|VHS Reutlingen|Spendhausstr. 6|07121-336-100|anmeldung@vhsrt.de|
@@ -77,4 +77,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Baden-Württember
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-09-16
+## Last Updated On 2025-09-17
