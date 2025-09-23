@@ -183,7 +183,7 @@ beate.zwingmann@bergische-vhs.de|
 |Recklinghausen|45699|Herten|Volkshochschule Herten|Resser Weg 1|02366/303515|vhs@herten.de|
 |Höxter|37671|Höxter|Volkshochschule Höxter-Marienmünster|Möllingerstr. 9|05271/963182|schwiete@vhs-hoexter.de|
 |Minden-Lübbecke|32339|Espelkamp|Volkshochschule Lübbecker Land|Wilhelm-Kern-Platz 4|05772-97710|steinhauer@vhs-altkreis-luebbecke.de|
-|Märkischer Kreis|58511|Lüdenscheid|Volkshochschule Lüdenscheid|Alte Rathausstr. 1|02351/171471|volkshochschule@luedenscheid.de|
+|Märkischer Kreis|58511|Lüdenscheid|Volkshochschule Lüdenscheid|Alte Rathausstr. 1|02351/171217|volkshochschule@luedenscheid.de|
 |Neuss|40670|Meerbusch|Volkshochschule Meerbusch|Hochstr. 14|02159/916-504|volkshochschule@meerbusch.de|
 |Minden-Lübbecke|32423|Minden|Volkshochschule Minden|Königswall 99|0571/83766-14|riemanns@vhs-minden.de|
 |Kreisfreie Stadt|41061|Mönchengladbach|Volkshochschule Mönchengladbach|Lüpertzender Str. 85|02161/25-6410|cleopatra.altanis@moenchengladbach.de|
@@ -202,4 +202,4 @@ beate.zwingmann@bergische-vhs.de|
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-09-22
+## Last Updated On 2025-09-23
