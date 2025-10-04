@@ -15,4 +15,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Schleswig-Holstei
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-09-30
+## Last Updated On 2025-10-04
