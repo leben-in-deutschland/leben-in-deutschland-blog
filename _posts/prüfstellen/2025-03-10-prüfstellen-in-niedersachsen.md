@@ -84,4 +84,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Niedersachsen.svg
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-10-11
+## Last Updated On 2025-10-12
