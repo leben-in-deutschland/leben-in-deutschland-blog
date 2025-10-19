@@ -77,4 +77,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Hessen.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-10-18
+## Last Updated On 2025-10-19
