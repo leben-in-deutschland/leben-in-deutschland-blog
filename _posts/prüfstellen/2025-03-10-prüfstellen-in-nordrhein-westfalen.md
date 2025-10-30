@@ -127,7 +127,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Nordrhein-Westfal
 |Soest|59557|Lippstadt|VHS Lippstadt|Barthstr. 2|02941-2895-12 o.23|vhs@stadt-lippstadt.de|
 |Herford|32584|Löhne|VHS Löhne |Werretalhalle Alte Bünder Str. 14|05732-100-588|vhs@loehne.de|
 |Märkischer Kreis|58706|Menden|VHS Menden-Hemer-Balve|Untere Promenade 28|02373-903-8407|m.wirtz@vhs-mhb.de|
-|Wesel|47441|Moers|VHS Moers|Kastell 5|02841/201559|ulrich.steuten@moers.de|
+|Wesel|47441|Moers|VHS Moers|Wilhelm-Schroeder-Str. 10|02841/201967|manuela.goerner@moers.de|
 |Kreisfreie Stadt|48143|Münster|VHS Münster|Aegidiistraße 70|0251/4924362|vhs@stadt-muenster.de|
 |Aachen|52477|Alsdorf|VHS Nordkreis Aachen|Übacher Weg 36|02406/666413|waltraud.pennartz@vhs-nordkreis-aachen.de|
 |Oberbergischer Kreis|51645|Gummersbach|VHS Oberbergischer Kreis|Mühlenbergweg 3|02261-819015|renee.scheer@vhs.obk.de|
@@ -202,4 +202,4 @@ beate.zwingmann@bergische-vhs.de|
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-10-29
+## Last Updated On 2025-10-30
