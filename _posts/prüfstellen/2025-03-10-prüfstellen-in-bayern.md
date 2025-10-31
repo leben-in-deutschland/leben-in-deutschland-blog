@@ -27,7 +27,7 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bayern.svg"
 |Kreisfreie Stadt|85049|Ingolstadt|Kolping Akademie Ingolstadt gGmbH|Johannesstraße 11|0841 / 933010|info@kolping-ingolstadt.de|
 |Kreisfreie Stadt|94032|Passau|Kommunaler Zweckverband der Volkshochschule Passau|Nikolastr. 18|0851-9598028|info@vhs-passau.de|
 |Kreisfreie Stadt|80337|München|MAS Sprachschule München|Lindwurmstr. 109|089-46139464|info@mas-sprachschule.de|
-|Kreisfreie Stadt|81667|München|Münchner VHS GmbH|Rosenheimer Str. 5|089-48006-6169|renate.aumueller@mvhs.de|
+|Kreisfreie Stadt|81667|München|Münchner VHS GmbH|Orleanstraße 34|089-48006-6169|einbuergerung@mvhs.de|
 |Oberallgäu|87527|Sonthofen|Oberallgäuer VHS|Hindelanger Str. 37|08321-667345|te@oa-vhs.de|
 |Kreisfreie Stadt|63739|Aschaffenburg|VHS  Aschaffenburg|Luitpoldstr. 2|06021-38688-55|nitsche@vhs-aschaffenburg.de|
 |Aichach-Friedberg|86551|Aichach|VHS Aichach-Friedberg e.V.|Steubstr. 3|08251-8737-14|gyoergyi.derdak@vhs-aichach-friedberg.de|
@@ -134,4 +134,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Bayern.svg"
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-10-30
+## Last Updated On 2025-10-31

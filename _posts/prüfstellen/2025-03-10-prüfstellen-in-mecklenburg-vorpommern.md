@@ -34,4 +34,4 @@ image: "https://www.lebenindeutschland.org/states/coat-of-arms/Mecklenburg-Vorpo
 |-------|--------|---------|---------|---------|---------|---------|
 
 
-## Last Updated On 2025-10-30
+## Last Updated On 2025-10-31
